@@ -1,4 +1,4 @@
-# dataviz-story-template
+# Mapping Change: Advancing Housing Equity and Stability in Connecticut's Communities
 DataVizForAll.org story template using modified Bootstrap
 
 ## Live view (replace with your own published link in Settings > Pages)
